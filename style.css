@@ -1,8 +1,12 @@
 
+html{
+    cursor:url('7590147.png'), auto; 
+}
 body{
     background:rgb(149, 241, 0);
     text-align: left;
-    cursor:url("image.copy.png"),pointer;
+  
+    
     
        
 h1{
