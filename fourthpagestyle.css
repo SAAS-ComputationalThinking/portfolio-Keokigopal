@@ -1,0 +1,22 @@
+img{
+    height:800px;
+    width:800px;
+    background-size:cover;
+ 
+}
+h1{
+    color:blue;
+    text-shadow: 5px 5px 0px green;
+
+}   
+h2{
+    position: inherit;
+}
+body{
+    background-color:olivedrab;
+    text-align: left;
+}
+ul{
+    text-decoration: wavy;
+    text-emphasis-color: purple;
+}
